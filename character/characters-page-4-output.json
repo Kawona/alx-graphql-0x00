@@ -1,0 +1,33 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 5,
+        "prev": 3
+      },
+      "results": [
+        {
+          "id": "61",
+          "name": "Abradolf Lincler",
+          "status": "unknown",
+          "image": "https://rickandmortyapi.com/api/character/avatar/61.jpeg"
+        },
+        {
+          "id": "62",
+          "name": "Adjudicator Rick",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/62.jpeg"
+        },
+        {
+          "id": "63",
+          "name": "Agency Director",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/63.jpeg"
+        }
+        
+      ]
+    }
+  }
+}

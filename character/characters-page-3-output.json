@@ -1,0 +1,32 @@
+{
+  "data": {
+    "characters": {
+      "info": {
+        "count": 826,
+        "pages": 42,
+        "next": 4,
+        "prev": 2
+      },
+      "results": [
+        {
+          "id": "41",
+          "name": "Alan Rails",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/41.jpeg"
+        },
+        {
+          "id": "42",
+          "name": "Albert Einstein",
+          "status": "Dead",
+          "image": "https://rickandmortyapi.com/api/character/avatar/42.jpeg"
+        },
+        {
+          "id": "43",
+          "name": "Alexander",
+          "status": "Alive",
+          "image": "https://rickandmortyapi.com/api/character/avatar/43.jpeg"
+        }
+      ]
+    }
+  }
+}
