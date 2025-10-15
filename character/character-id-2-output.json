@@ -1,0 +1,12 @@
+{
+    "data": {
+        "character": {
+            "id": "2",
+            "name": "Michael John",
+            "status": "Alive",
+            "species": "Human",
+            "type": "",
+            "gender": "Male"
+        }
+    }
+}
